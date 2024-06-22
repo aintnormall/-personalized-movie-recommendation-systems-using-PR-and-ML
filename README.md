@@ -1,4 +1,4 @@
-# Movie Recommendation System Analysis
+# Movie RecommendatioN Analysis
 
 This repository presents a comprehensive analysis of traditional machine learning techniques for personalized movie recommendation systems. The primary objective is to apply and rigorously evaluate collaborative filtering and content-based filtering methods, emphasizing systematic performance assessments across computational efficiency, cold-start handling, and recommendation quality.
 
@@ -35,7 +35,6 @@ The analysis is structured into three main sections:
 
 The analysis provides valuable insights into the strengths, limitations, and real-world applicability of various traditional machine learning techniques for movie recommendation systems. Key findings include the computational efficiency of Random Forest and Naive Bayes, the capability of certain methods to mitigate the cold-start problem partially, and the effectiveness of linear and RBF kernels in capturing genre similarities and providing diverse recommendations.
 
-Please refer to the [LaTeX report](Report.pdf) for detailed information, including methodology, results, and analysis.
 
 ## Running the Scripts
 
@@ -75,28 +74,8 @@ To run the script, navigate to the project folder and execute:
 bash multicore.sh
 ```
 
-**Note:** Before running the scripts, ensure that you have the correct paths set for your conda installation and the desired conda environment. Additionally, make sure that the `Python Scripts` and `Analysis` folders exist in the project directory.
-
-By running these scripts, you can collect and analyze the execution times of the Python scripts, which can be helpful for benchmarking and performance evaluation purposes.
-
 ## Google Colab
 
-We have also created a Google Colab notebook where all the models are pre-loaded and ready for experimentation. You can access the notebook [here](https://colab.research.google.com/drive/1SX5sxvc3PzmaDYX0D0yHBpIApekDzXaq?usp=sharing).
+also created a Google Colab notebook where all the models are pre-loaded and ready for experimentation. You can access the notebook [here](https://colab.research.google.com/drive/1SX5sxvc3PzmaDYX0D0yHBpIApekDzXaq?usp=sharing).
 
-## Website
 
-We have created a website that explains the basics of these models and it can be accessed [here](https://bansal0527.github.io/Movie-Recomendation-System/).
-
-## Contributors
-
-- [Parth Darshan](https://github.com/b22cse040)
-
-- [Mayank Bansal](https://github.com/Bansal0527)
-
-- [Palash Khatod](https://github.com/palash-kh) 
-
-- [Akarsh Katiyar](https://github.com/aakarsh-kt)
-
-- [Ram Prasad](https://github.com/Ramjat19)
-
-- [Rakshit Singhal](https://github.com/rakshitx1)
